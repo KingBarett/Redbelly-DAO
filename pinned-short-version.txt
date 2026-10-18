@@ -6,5 +6,6 @@
 - Get verified at https://access.redbelly.network/ (identity check by Averer).
 - About 10 wallets per verified identity.
 - The DAO is open from any region. The network still excludes the jurisdictions in clause 15.1 of its terms: https://redbelly.network/terms-and-conditions
-- Stuck or rejected? Contact Averer support: https://averer.co/
-- Full guide: [add link once published]
+- Stuck or rejected? Averer help portal: https://averer-help.freshdesk.com/support/login
+- Full guide: https://redbelly-dao-vert.vercel.app/
+- Last verified: 19 October 2026
