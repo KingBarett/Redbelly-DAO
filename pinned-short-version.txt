@@ -1,0 +1,10 @@
+**Do I need Redbelly KYC?** (image below)
+
+- Holding RBNT on an exchange, or wrapped RBNT on another chain: not needed.
+- Sending anything on Redbelly mainnet, including staking: needed.
+- Bridging onto mainnet: unconfirmed, so verify first to be safe.
+- Get verified at https://access.redbelly.network/ (identity check by Averer).
+- About 10 wallets per verified identity.
+- The DAO is open from any region. The network still excludes the jurisdictions in clause 15.1 of its terms: https://redbelly.network/terms-and-conditions
+- Stuck or rejected? Contact Averer support: https://averer.co/
+- Full guide: [add link once published]
